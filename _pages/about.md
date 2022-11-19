@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is Joao Marcos Correia Marques's personal webpage. Here you will find his latest publications, news about his research and interesting videos and visualizations that he could not fit into said papers.
+
+Joao is currently a PhD candidate in Computer Science at the University of Illinois at Urbana-Champaign. His academic trajectory has been multidisciplinary, with the unifying thread of trying to bring service robots into the real, unstructured world - be it by incorporating perception into motion planning or by enabling these robots to leverage human expertise through teleoperation. 
+His most recent work on planning and perception, done in collaboration with Rizhao Qiu and Yixiao Sun, developed a real-time 3D semantic reconstruction system for distinguishing surfaces that are likely to be infected with pathogens (high-touch surfaces) and incorporated the generated map into an optimal path planner for ultraviolet disinfection. This extended Joao's previous work on optimal disinfection path planning and showed that incorporating semantic information during planning can improve disinfection coverage by up to 20% under the same time budget. On the teleoperation realm, his work on the Tele-Robotic Intelligent Nursing Assistant (TRINA) was recently rewarded with a 4th place in the ANA Avatar XPRIZE challenge, showing that intuitive and immersive teleoperation can be achieved without making use of intrusive exoskeleton devices. Joao served as team leader in computer hardware, user experience and haptics, while also laying the groundwork for the robot's python-package-style infrastructure. This lowered the barrier to entry in programming and controlling complex robotic systems and enabled more effective collaboration with undergradute students on the project. Currently, he is investigating the impact of model calibration and semantic integration methods on semantic confidence estimates for metric-semantic reconstruction - and its downstream impacts on object retrieval to enable future service robots to more effectively interact with novel or dynamically changing environments. 
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +51,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

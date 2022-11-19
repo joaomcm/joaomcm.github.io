@@ -13,7 +13,7 @@ name                     : &name "Joao Marcos Correia Marques"
 description              : &description "PhD Candidate at the University of Illinois at Urbana-Champaign"
 url                      : https://joaomarques.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "joaomarques.github.io"
+repository               : "profile.png"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

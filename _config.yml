@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Joao M. C. Marques"
-  avatar           : "my-profle-pic.png"
+  avatar           : "_images/my-profile-pic.png"
   bio              : "Research Assistant and PhD candidate at UIUC"
   location         : "Urbana, Illinois"
   employer         :

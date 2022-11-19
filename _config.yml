@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Joao Marcos Correia Marques"
-  avatar           : "profile.png"
+  avatar           : "my-profle-pic.png"
   bio              : "Research Assistant and PhD candidate at UIUC"
   location         : "Urbana, Illinois"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jo%C3%A3o-marcos-correia-marques-82a2908a/"
+  linkedin         : #"https://www.linkedin.com/in/jo%C3%A3o-marcos-correia-marques-82a2908a/"
   orcid            : #"https://orcid.org/0000-0002-2403-4876"
   pinterest        :
   soundcloud       :

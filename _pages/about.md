@@ -14,4 +14,4 @@ His most recent work on planning and perception, done in collaboration with Rizh
 
 News
 ======
-Nov 2022: We're proud to announce that our robot TRINA was one of only 4 teams that were able to complete all 10 tasks in the ANA Avatar Xprize finals! While we did miss the podium, placing 4-th, our robot performed admirably - and was the only exoskeleton-free robot to finish the track! 
+Nov 2022: We're proud to announce that our robot TRINA was one of only 4 teams that were able to complete all 10 tasks in the ANA Avatar Xprize finals! While we did miss the podium, placing 4<sup>th</sup>, our robot performed admirably - and was the only exoskeleton-free robot to finish the track!

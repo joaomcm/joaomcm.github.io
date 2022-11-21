@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download the CV here](https://joaomcm.github.io/files/Resume-Joao-Marcos-Correia-Marques-2022_11_21.pdf)
+
 Education
 ======
 * B.S. in Mechatronics, Universidade de Sao Paulo, 2018

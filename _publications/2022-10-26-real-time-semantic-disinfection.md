@@ -1,7 +1,7 @@
 ---
 title: "Real-time Semantic 3D Reconstruction for High-Touch Surface Recognition for Robotic Disinfection"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-10-26-real-time-semantic-disinfection
 excerpt: 'This paper presentes a real-time semantic 3D reconstruction system for reconstructing and classifying environments in high-touch or low touch - and extends my previous disinfection planner to include this semantic information, showing that incorporating this information during planning improves disinfection performance by up to 20%'
 date: 2022-10-26
 venue: 'IROS'

@@ -1,7 +1,7 @@
 ---
 title: "Commodity Telepresence with the AvaTRINA Nursebot in the ANA Avatar XPRIZE Semifinals"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-07-01-team-avatrina-semifinals
 excerpt: 'In this short paper, we discuss the main features of our semifinals entry to the ANA Avatar XPrize challenge in Miami, Florida, which placed 4th in the semifinals. A more detailed paper with our finals submission will follow soon.'
 date: 2022-07-01
 venue: 'RSS 2022 Workshop on” Towards Robot Avatars: Perspectives on the ANA Avatar XPRIZE Competition'

@@ -1,7 +1,7 @@
 ---
 title: "Optimized Coverage Planning for UV Surface Disinfection"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-05-30-optimized-coverage-path-planning.md
 excerpt: 'This paper introduces an algorithm to compute the optimal (shortest) path for a UV light across an environment while guaranteeing that all surfaces get the necessary dose of UV radiation for disinfection - and evaluates different robot designs for this task.'
 date: 2021-05-30
 venue: 'ICRA'

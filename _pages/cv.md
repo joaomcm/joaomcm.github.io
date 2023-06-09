@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download the CV here](https://joaomcm.github.io/files/Resume-Joao-Marcos-Correia-Marques-2022_11_21.pdf)
+[Download the CV here](https://joaomcm.github.io/files/CV-Joao-Marcos-Correia-Marques-2023_06_09.pdf)
 
 Education
 ======
@@ -72,5 +72,6 @@ Publications
   
 Service and leadership
 ======
-* Advised and managed over 6 undergraduate summer research interns over the past three years
-* Reviewer for ICRA and IROS;
+* Advised and managed over 6 undergraduate summer research interns over the past three years on the TRINA Project
+* Reviewer for ICRA (2021,2022) and IROS (2022, 2023);
+* Co-chair of the Robotics Session of the 17th Coordinated Sciences Laboratory Conference (CSLSC)

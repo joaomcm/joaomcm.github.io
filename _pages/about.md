@@ -16,4 +16,5 @@ On the teleoperation realm, his work on the Tele-Robotic Intelligent Nursing Ass
 News
 ======
 Jun 2023: We're happy to present both of our papers at the 2<sup>nd</sup> Workshop Towards Robot Avatars at ICRA 2023! I'm excited to share what we learned during the TRINA's development - and to hear from other avatar creators about their experiences with this growing technology!
+
 Nov 2022: We're proud to announce that our robot TRINA was one of only 4 teams that were able to complete all 10 tasks in the ANA Avatar Xprize finals! While we did miss the podium, placing 4<sup>th</sup>, our robot performed admirably - and was the only exoskeleton-free robot to finish the track!

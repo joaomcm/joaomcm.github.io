@@ -9,19 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-[Download the CV here](https://joaomcm.github.io/files/CV-Joao-Marcos-Correia-Marques-2023_06_09.pdf)
+[Download the CV here](https://joaomcm.github.io/files/CV-Joao-Marcos-Correia-Marques2024_05_08.pdf)
 
 Education
 ======
 * B.S. in Mechatronics, Universidade de Sao Paulo, 2018
 * M.S. in Automation and Control, Politecnico di Milano, 2017
-* Ph.D in Computer Science, University of Illinois at Urbana-Champaign, 2024 (expected)
+* Ph.D in Computer Science, University of Illinois at Urbana-Champaign, 2025 (expected)
 
 Work experience
 ======
 * August 2019-August 2021 and January 2022 - Present: Research Assistant
   * University of Illinois at Urbana-Champaign, Illinois, USA
-  * Duties included: Studying optimal path planning for disinfection robots; developing a bimanual teleoperated robot and its user-side and robot-side infrastructure; Incorporating metric-semantic reconstruction into disinfection planning and currently investigating confidence estimates in real-time metric semantic reconstruction and their impact on the downstream task of object retrieval. 
+  * Duties included: Studying optimal path planning for disinfection robots; developing a bimanual teleoperated robot and its user-side and robot-side infrastructure; Incorporating metric-semantic reconstruction into disinfection planning and currently investigating confidence estimates in real-time metric semacvntic reconstruction and their impact on the downstream task of object retrieval. 
   * Supervisor: Professor Kris Hauser
 
 * Fall 2021: Teaching Assistant
@@ -48,6 +48,8 @@ Skills
 * Motion Planning
 * Mapping
 * Python
+* Machine Learning
+* Computer Vision
 * Unity and C# (beginner)
 * Solidworks (intermediary)
 * Scientific writing
@@ -73,5 +75,5 @@ Publications
 Service and leadership
 ======
 * Advised and managed over 6 undergraduate summer research interns over the past three years on the TRINA Project
-* Reviewer for ICRA (2021,2022) and IROS (2022, 2023);
+* Reviewer for ICRA (2021,2022,2023), IROS (2022, 2023), RA-L (2023), International Journal of Social Robotics (2023,2024)
 * Co-chair of the Robotics Session of the 17th Coordinated Sciences Laboratory Conference (CSLSC)

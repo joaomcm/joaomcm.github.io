@@ -13,7 +13,7 @@ His work investigates how semantically annotated maps can be used for gainful do
 
 On the teleoperation realm, he co-developed the Tele-Robotic Intelligent Nursing Assistant (TRINA) robot, which placed 4<sup>th</sup> in the ANA Avatar XPRIZE challenge, showing that intuitive and immersive teleoperation can be achieved without making use of intrusive exoskeleton devices.
 
-Currently, he is invesigating the issue of manipulation enhanced mapping and its relation to domestic object retrieval with mobile manipulators.
+Currently, he is investigating the issue of manipulation enhanced mapping and its relation to domestic object retrieval with mobile manipulators.
 
 News
 ======
